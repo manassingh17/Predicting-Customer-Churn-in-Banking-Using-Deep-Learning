@@ -43,7 +43,9 @@ By leveraging deep learning techniques, this project aims to provide a powerful 
 3. Install the required dependencies
     ```bash
     pip install -r requirements.txt
-    streamlit run app.py
+4. Run the webapp
+    ```bash
+    pip install -r requirements.txt
 
    
    
